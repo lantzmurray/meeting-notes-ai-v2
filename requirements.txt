@@ -1,0 +1,8 @@
+# Project 5: AI Meeting Notes Generator
+fastapi>=0.100.0
+uvicorn>=0.23.0
+streamlit>=1.28.0
+requests>=2.31.0
+python-multipart>=0.0.6
+openai-whisper>=20231117
+numpy<2.0.0
