@@ -2,6 +2,10 @@
 
 An AI-powered meeting notes generator that transcribes audio recordings and automatically generates structured meeting notes with summaries, action items, and transcripts. Perfect for teams, project managers, and anyone who needs to document meetings.
 
+## Screenshot
+
+![MeetingNotesGenerator](MeetingNotesGenerator.png)
+
 ## Features
 
 - **Audio Transcription**: Uses Whisper AI for accurate speech-to-text
